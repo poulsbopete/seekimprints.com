@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/about/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Seek Imprints"}},"markdownRemark":{"id":"b0e885da-1f2d-5c3c-983a-6ca56103971f","excerpt":"Introduction to my blog post Great content of my first blog","html":"<h2>Introduction to my blog post</h2>\n<p>Great content of my first blog</p>","frontmatter":{"title":"About Seek Imprints","date":"September 22, 2021","description":null}},"previous":null,"next":null},"pageContext":{"id":"b0e885da-1f2d-5c3c-983a-6ca56103971f","previousPostId":null,"nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
