@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Seek Imprints`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Peter Simkins`,
+      summary: `who lives and works in the town of Poulsbo, just outside of Seattle Washington in the USA.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A business focused on creative designs for websites, t-shirts, stickers, mugs, etc.`,
+    siteUrl: `https://seekimprints.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `seekimprints`,
     },
   },
   plugins: [
@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/about`,
+        name: `about`,
       },
     },
     {
